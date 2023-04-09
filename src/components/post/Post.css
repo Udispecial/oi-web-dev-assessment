@@ -1,0 +1,19 @@
+.card__body {
+  height: 250px;
+}
+.icon_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 24px;
+  padding: 10px 20px;
+}
+.icons {
+  cursor: pointer;
+}
+.icons:hover {
+  color: blue;
+}
+.icon_delete:hover {
+  color: red;
+}
